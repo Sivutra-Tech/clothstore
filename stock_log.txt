@@ -1,0 +1,3 @@
+Item with ID (1017) stock has been reduced as it has been sold
+Item with ID (1015) stock has been reduced as it has been sold
+Item with ID (1008) stock has been reduced as it has been sold
